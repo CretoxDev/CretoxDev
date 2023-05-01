@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CretoxDev
+- 👀 I’m interested in Js, Ts, C Language
+- 🌱 I’m currently learning Ruby, Python, Rust
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me Akio#2828 on Discord
